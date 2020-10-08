@@ -1163,7 +1163,7 @@ panel a {
     max-width:100%
 }
 
-.screenshot-viewer {
+.preview-viewer {
     overflow-x: auto;
     -webkit-overflow-scrolling: touch;
     width: auto;
@@ -1178,7 +1178,7 @@ panel a {
     -ms-overflow-style:none
 }
 
-.screenshot-viewer > li {
+.preview-viewer > li {
     padding: 0;
     display: inline-block;
     vertical-align: bottom;
@@ -1186,15 +1186,15 @@ panel a {
     margin:0 6px
 }
 
-.screenshot-viewer > li:first-child {
+.preview-viewer > li:first-child {
     margin-left:0
 }
 
-.screenshot-viewer > li:last-child {
+.preview-viewer > li:last-child {
     margin-right:0
 }
 
-.screenshot-viewer > li img {
+.preview-viewer > li img {
     margin: 0;
     position: relative;
     z-index: 1;

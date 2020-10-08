@@ -481,13 +481,13 @@ a.sub-header {
     justify-items:stretch
 }
 
-.screenshot-viewer a {
+.preview-viewer a {
     display: block;
     width: auto;
     height:275px
 }
 
-.screenshot-viewer img {
+.preview-viewer img {
     height: 100%;
     width: auto;
     border-radius: 5px;
@@ -495,7 +495,7 @@ a.sub-header {
     display:inline-block
 }
 
-.screenshot-viewer {
+.preview-viewer {
     overflow-y: hidden;
     display: block;
     margin: 0;
@@ -578,12 +578,6 @@ header .nav-label {
         background: #000000;
     }
 
-    header #btn-login {
-        border: 1px solid #000;
-        border-color: #fff !important;
-        color: #fff;
-    }
-    
     header .nav-label {
         color:#fff
     }
