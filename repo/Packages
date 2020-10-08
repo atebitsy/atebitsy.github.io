@@ -32,3 +32,20 @@ Author: atebitsy <atebitsy@gmail.com>
 Depiction: https://www.atebitsy.com/repo/package/carmodeemulation/index.html
 Name: Car mode emulation
 
+Package: com.atebitsy.storylines
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: atebitsy <atebitsy@gmail.com>
+Installed-Size: 152
+Depends: mobilesubstrate
+Filename: debs/com.atebitsy.storylines_1.0_iphoneos-arm.deb
+Size: 5820
+MD5sum: dfdaddc0e74d6088d895df7ca253dafc
+SHA1: 634c79ca34c5f33f67967714cecf7a25682fbd40
+SHA256: d4f79db7741bd0d0a908cf52fdd2185e2fdc8b6e34a904d60a2cfe3a1f4a41d0
+Section: Tweaks
+Description: Adds a section into Playback settings to turn the Storylines feature on or off.
+Author: atebitsy <atebitsy@gmail.com>
+Depiction: https://www.atebitsy.com/repo/package/storylines/index.html
+Name: Storylines
+
