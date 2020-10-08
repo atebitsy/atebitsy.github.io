@@ -5,13 +5,30 @@ Maintainer: atebitsy <atebitsy@gmail.com>
 Installed-Size: 216
 Depends: mobilesubstrate
 Filename: debs/com.atebitsy.annotation_1.0_iphoneos-arm.deb
-Size: 4216
-MD5sum: 159e70efeb04167a7d5e9ff267e2fb2f
-SHA1: b731abaab2966e24b4dc364be378c41500965835
-SHA256: 2e395c3548a41d6809466f7279dfa5eaa032df6db778dd8f6067d521f8227500
+Size: 4214
+MD5sum: 2bddca24365f405b290743ede16abb5d
+SHA1: ec5cf55928e34d83121233ca81485eec0591edf5
+SHA256: e8ef1f4f1d1bc9a99c9e3a125412c9adb3b1b8d16a864bc2c4bff1ce0ee32d92
 Section: Tweaks
-Description: Adds the ability to add descriptions to your playlists and change your playlist image cover to your liking in the Spotify app.
+Description: Adds the ability to add descriptions to your playlists and change your playlist cover art image to your personal preference.
 Author: atebitsy <atebitsy@gmail.com>
 Depiction: https://www.atebitsy.com/repo/package/annotation/index.html
 Name: Annotation
+
+Package: com.atebitsy.carmodeemulation
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: atebitsy <atebitsy@gmail.com>
+Installed-Size: 216
+Depends: mobilesubstrate
+Filename: debs/com.atebitsy.carmodeemulation_1.0_iphoneos-arm.deb
+Size: 8758
+MD5sum: 4f07983f8d02f793956365893a95a102
+SHA1: 7b4660eede29a7058249bef5b218265240c013e7
+SHA256: 84975cec269b9ac34d828b40821cedb515b1c9cc865a81ef157f590bb2a4e746
+Section: Tweaks
+Description: Emulates a car connected over Bluetooth.
+Author: atebitsy <atebitsy@gmail.com>
+Depiction: https://www.atebitsy.com/repo/package/carmodeemulation/index.html
+Name: Car mode emulation
 
