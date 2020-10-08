@@ -19,13 +19,13 @@ Package: com.atebitsy.carmodeemulation
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: atebitsy <atebitsy@gmail.com>
-Installed-Size: 216
+Installed-Size: 152
 Depends: mobilesubstrate
 Filename: debs/com.atebitsy.carmodeemulation_1.0_iphoneos-arm.deb
-Size: 8946
-MD5sum: 144acaa845485a2273e975ea67bc188f
-SHA1: 4090562b8150f9897dba6007b6a5964ab85c1b0d
-SHA256: 5bb0b486bfc81286e0b08cc34de6384e3b06734f7fb3b27cfc1908bbd2070c22
+Size: 6056
+MD5sum: a681d44591881097f2b92f29662dcb68
+SHA1: c95a8d0acd5e35c8676fc533e30d8b6551a2fe07
+SHA256: 75318adb974b13ecad60b7fd4dd95a0ca254982bd4f4c5c53a22744c2dfc90af
 Section: Tweaks
 Description: Emulates a car connected over Bluetooth.
 Author: atebitsy <atebitsy@gmail.com>
