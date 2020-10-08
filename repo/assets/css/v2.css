@@ -1676,19 +1676,19 @@ table.information-table > tbody > tr:last-child {
 
 @media (prefers-color-scheme: dark) {
     body {
-        background-color: #000000 !important;
+        background-color: #2E3440 !important;
     }
     
     body main {
-        background-color: #000000;
+        background-color: #2E3440;
     }
     body panel panel-body {
         color: #ECEFF4;
-        background: #000000;
+        background: #2E3440;
     }
 
     header #btn-login {
-        border: 1px solid #000;
+        border: 1px solid #2E3440;
         border-color: #fff !important;
         color: #fff;
     }
@@ -1752,20 +1752,20 @@ table.information-table > tbody > tr:last-child {
 
     html body panel panel-body {
         color: #D8DEE9;
-        background: #000000;
+        background: #2E3440;
 
     }
 
     body {
-        background-color: #000000;
+        background-color: #2E3440;
     }
     
     main {
-        background-color: #000000;
+        background-color: #2E3440;
     }
 
     header {
-        background-image: linear-gradient(90deg, #080808, #080808);
+        background-image: linear-gradient(90deg, #2E3440, #2E3440);
         box-shadow: 0 1px 1px 0 rgba(36, 41, 51, .3);
     }
     
@@ -1778,7 +1778,7 @@ table.information-table > tbody > tr:last-child {
     }
 
     .bg-white {
-        background-color:#000000
+        background-color:#2E3440
     }
     
     .text-3xl {
