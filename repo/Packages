@@ -23,9 +23,9 @@ Installed-Size: 152
 Depends: mobilesubstrate
 Filename: debs/com.atebitsy.blackout_1.0_iphoneos-arm.deb
 Size: 5948
-MD5sum: 8681d74fb515056f043af0e5da843c24
-SHA1: 1b1359011faac58d07ddefd3057ea441ddb70d94
-SHA256: f1a3c18ea30974676f829055b2de37b3335f776b0a793bddb897b8404eb62b83
+MD5sum: 652b2ca94a4f8403c053c0b526c8e271
+SHA1: 05c136eeccce8b837ad0d1d3c34645eb4d74634b
+SHA256: a0d128b4e54ce2415591bfd63d62eb247e02b3ce5071c363732c0a03a84ea7ee
 Section: Tweaks
 Description: Adds a section into Playback settings to set the now playing view background to just black, great at night and for amoled displays.
 Author: atebitsy <atebitsy@gmail.com>
