@@ -61,7 +61,7 @@ MD5sum: d2dad1aab2c4f12f3002412c93e8b365
 SHA1: 976948af78175264ef12849bfa99a6749c8e6fe1
 SHA256: c60f46d27266d5f7033d630f20d693a6f4722026b416039eda5a7f11405b7738
 Section: Tweaks
-Description: Emulates a car connected over Bluetooth.
+Description: Adds a section into Car settings to Emulate a car connected over Bluetooth.
 Author: atebitsy <atebitsy@gmail.com>
 Depiction: https://www.atebitsy.com/repo/package/carmodeemulation/index.html
 Name: Car mode emulation
