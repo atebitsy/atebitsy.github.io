@@ -15,6 +15,23 @@ Author: atebitsy <atebitsy@gmail.com>
 Depiction: https://www.atebitsy.com/repo/package/annotation/index.html
 Name: Annotation
 
+Package: com.atebitsy.autohidedurationlabels
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: atebitsy <atebitsy@gmail.com>
+Installed-Size: 152
+Depends: mobilesubstrate
+Filename: debs/com.atebitsy.autohidedurationlabels_1.0_iphoneos-arm.deb
+Size: 6374
+MD5sum: 54b828638941888119fb9ee12311546c
+SHA1: 6d964e02b8030499ae1ab0750bc4ed4ba445e7ac
+SHA256: 611944f2c7f328e82aed447eee29cf693ad4e3778a18e2e5507705bd4deb79fa
+Section: Tweaks
+Description: Adds a section into Playback settings to Autohide Duration Labels on the now playing view.
+Author: atebitsy <atebitsy@gmail.com>
+Depiction: https://www.atebitsy.com/repo/package/autohidedurationlabels/index.html
+Name: Autohide Duration Labels
+
 Package: com.atebitsy.blackout
 Version: 1.0
 Architecture: iphoneos-arm
