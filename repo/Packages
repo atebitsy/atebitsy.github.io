@@ -90,12 +90,13 @@ Maintainer: atebitsy
 Installed-Size: 216
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: debs/com.google.ios.ytadblock_15.42.2_iphoneos-arm.deb
-Size: 11508
-MD5sum: 4c2d3859b4b7027365aef7b044ea41dd
-SHA1: 64721e7a626f05e39df2ba42f6a1881dcf07eb14
-SHA256: fe9b86e02f16394c3cdc167e5e8c8ed80adeb1de7a70096647dbb0b62eea257c
+Size: 11550
+MD5sum: c1519f331e80f4053b352b362be4b1ef
+SHA1: fb7a618af27cff11b36249035f2e1dd5e80e3132
+SHA256: dd7daea8eb68082e47550ddec518a76cd5c020e17812cd72906347aa5ce5c137
 Section: Tweaks
 Description: An awesome YouTube AdBlock tweak!
 Author: atebitsy
+Depiction: https://www.atebitsy.com/repo/package/ytadblock/index.html
 Name: YTAdBlock
 
