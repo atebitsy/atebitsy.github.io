@@ -61,7 +61,7 @@ MD5sum: d2dad1aab2c4f12f3002412c93e8b365
 SHA1: 976948af78175264ef12849bfa99a6749c8e6fe1
 SHA256: c60f46d27266d5f7033d630f20d693a6f4722026b416039eda5a7f11405b7738
 Section: Tweaks
-Description: Adds a section into Car settings to Emulate a car connected over Bluetooth.
+Description: Emulates a car connected over Bluetooth.
 Author: atebitsy <atebitsy@gmail.com>
 Depiction: https://www.atebitsy.com/repo/package/carmodeemulation/index.html
 Name: Car mode emulation
@@ -82,4 +82,20 @@ Description: Adds a section into Playback settings to turn the Storylines featur
 Author: atebitsy <atebitsy@gmail.com>
 Depiction: https://www.atebitsy.com/repo/package/storylines/index.html
 Name: Storylines
+
+Package: com.google.ios.ytadblock
+Version: 15.42.2
+Architecture: iphoneos-arm
+Maintainer: atebitsy
+Installed-Size: 216
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/com.google.ios.ytadblock_15.42.2_iphoneos-arm.deb
+Size: 11508
+MD5sum: 4c2d3859b4b7027365aef7b044ea41dd
+SHA1: 64721e7a626f05e39df2ba42f6a1881dcf07eb14
+SHA256: fe9b86e02f16394c3cdc167e5e8c8ed80adeb1de7a70096647dbb0b62eea257c
+Section: Tweaks
+Description: An awesome YouTube AdBlock tweak!
+Author: atebitsy
+Name: YTAdBlock
 
