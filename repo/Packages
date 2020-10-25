@@ -84,16 +84,16 @@ Depiction: https://www.atebitsy.com/repo/package/storylines/index.html
 Name: Storylines
 
 Package: com.google.ios.ytadblock
-Version: 15.42.4
+Version: 15.42.5
 Architecture: iphoneos-arm
 Maintainer: atebitsy
 Installed-Size: 216
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: debs/com.google.ios.ytadblock_15.42.4_iphoneos-arm.deb
-Size: 8908
-MD5sum: 8ba4e2751edd797ab5c8d5804c6a58ab
-SHA1: 573455653ac2cebce5e3daa6c3a13f6bbd62d9ec
-SHA256: d727ee29cbe3066d92fccf3ff8ad1c0e7eb74fa6d11c15a8f11330ef530b959f
+Filename: debs/com.google.ios.ytadblock_15.42.5_iphoneos-arm.deb
+Size: 8998
+MD5sum: b2f10403a79cff3e9dd0b64ad44ca960
+SHA1: 2f70fa245188e045c41055c8601f984a6c694d43
+SHA256: cd0017d0adbcd259b987bef4c9f54d64a6f9f2b4612e563dee20e5a96e182375
 Section: Tweaks
 Description: An awesome YouTube AdBlock tweak!
 Author: atebitsy
