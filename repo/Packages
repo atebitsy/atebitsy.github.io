@@ -83,6 +83,23 @@ Author: atebitsy <atebitsy@gmail.com>
 Depiction: https://www.atebitsy.com/repo/package/storylines/index.html
 Name: Storylines
 
+Package: com.google.ios.noyoutubemusicads
+Version: 3.89.4
+Architecture: iphoneos-arm
+Maintainer: atebitsy
+Installed-Size: 216
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/com.google.ios.noyoutubemusicads_3.89.4_iphoneos-arm.deb
+Size: 8970
+MD5sum: 0a1c1696cd50515518052ec2efc50bac
+SHA1: 3ff43117cf01e30ea17092436c8dfed91d8ad2d0
+SHA256: 94daf0db026e8d91dc261e44e7f6d29b48a8dc6781ba78b3a692bff9573d8d6c
+Section: Tweaks
+Description: An awesome YouTube Music AdBlock tweak!
+Author: atebitsy
+Depiction: https://www.atebitsy.com/repo/package/noyoutubemusicads/index.html
+Name: NoYouTubeMusicAds
+
 Package: com.google.ios.ytadblock
 Version: 15.42.5
 Architecture: iphoneos-arm
